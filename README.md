@@ -20,3 +20,7 @@
 
 ### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+# Snake 
+
+![snake gif](https://github.com/Ali-Ch-001/Ali-Ch-001/blob/output/github-contribution-grid-snake.gif)
