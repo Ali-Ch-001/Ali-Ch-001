@@ -1,7 +1,5 @@
 [![](https://visitcount.itsvg.in/api?id=Ali-Ch-001&icon=2&color=12)](https://visitcount.itsvg.in)
 
-![](gitartwork.svg)
-
 # Hi 👋🏻 I'm Ali 
 
 ### A Passionate End To End Developer.
@@ -22,7 +20,3 @@
 
 ### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-# Snake 
-
-
