@@ -1,5 +1,7 @@
 [![](https://visitcount.itsvg.in/api?id=Ali-Ch-001&icon=2&color=12)](https://visitcount.itsvg.in)
 
+![gitartwork](gitartwork.svg)
+
 # Hi 👋🏻 I'm Ali 
 
 ### A Passionate End To End Developer.
@@ -23,4 +25,4 @@
 
 # Snake 
 
-![snake gif](https://github.com/Ali-Ch-001/Ali-Ch-001/blob/output/github-contribution-grid-snake.gif)
+
