@@ -10,7 +10,7 @@
 # Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ali.__.ch_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-787-ch) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/AliCh787) 
 
-## Don't Eat All Leave Some 
+## Don't Eat All Leave Some 😂
 
 ![](https://github.com/Ali-Ch-001/Ali-Ch-001/blob/output/github-contribution-grid-snake-dark.svg)
 
