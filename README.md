@@ -1,6 +1,6 @@
 [![](https://visitcount.itsvg.in/api?id=Ali-Ch-001&icon=2&color=12)](https://visitcount.itsvg.in)
 
-![gitartwork](gitartwork.svg)
+![](gitartwork.svg)
 
 # Hi 👋🏻 I'm Ali 
 
