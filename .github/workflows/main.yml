@@ -15,4 +15,4 @@
             user_name: Ali-Ch-001
             # Text on contribution graph 
             text: ALI CH
-      -uses: jasineri/simple-push-action@v1
+       - uses: jasineri/simple-push-action@v1
