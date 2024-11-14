@@ -2,7 +2,7 @@
 
 # Hi 👋🏻 I'm Ali 
 
-### A Passionate End To End Developer.
+### A FUll STACK DEVELOPER & SOLUTIONS ARCHITECT.
 
 <br>- I’m currently working on Developing a new Web Application.<br>- I'm want to collaborate on Web development projects.<br>- I want to Enhance security and scalability for my projects.<br>- I'm Learning Advanced frameworks and Libraries for AI-ML .<br>- Ask me about Web development, ReactJs | NextJs | NuxtJs | VueJs | Angular also TypeScript, C++ | C , React Native | Flutter , Python, AI, Appwrite, Firebase , Supabase , Clerk and more.<br>- Fun fact I built an award-winning website in under 24 hours at a hackathon.
 
