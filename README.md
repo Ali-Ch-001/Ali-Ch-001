@@ -14,7 +14,7 @@
 <br>
 
 # 📱 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-787-ch) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ali.__.ch_) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/AliCh787) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-787-ch) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ali.__.ch_) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/AliCh787) [![Sponsor ME ♥️](https://img.shields.io/badge/Sponsor_ME-%E2%9D%A4%EF%B8%8F-ff69b4?style=flat&logo=polar&logoColor=white)](https://buy.polar.sh/polar_cl_Daba3yPHh6lSxkAEIurpL3KJdtAFLlgFocBdd2WBeUX)
 
 ---
 
